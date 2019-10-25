@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pytesseract
+configparser
+Flask
+jsonpickle
